@@ -1,0 +1,6 @@
+{
+  "name": "ember-app-2-13",
+  "dependencies": {
+    "js-yaml": "^3.8.4"
+  }
+}
